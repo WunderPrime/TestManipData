@@ -1,0 +1,44 @@
+[
+    {
+        "user id":1,
+        "age":25.0,
+        "income":0.0,
+        "click rate":0.15
+    },
+    {
+        "user id":2,
+        "age":32.0,
+        "income":0.3442857143,
+        "click rate":0.22
+    },
+    {
+        "user id":3,
+        "age":32.4285714286,
+        "income":0.3571428571,
+        "click rate":0.18
+    },
+    {
+        "user id":4,
+        "age":45.0,
+        "income":0.4285714286,
+        "click rate":0.1814285714
+    },
+    {
+        "user id":6,
+        "age":32.4285714286,
+        "income":0.8571428571,
+        "click rate":0.3
+    },
+    {
+        "user id":7,
+        "age":35.0,
+        "income":1.0,
+        "click rate":0.1814285714
+    },
+    {
+        "user id":8,
+        "age":40.0,
+        "income":0.3733928571,
+        "click rate":0.12
+    }
+]
